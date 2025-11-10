@@ -2,7 +2,7 @@ import pandas as pd
 import requests
 import streamlit as st
 
-st.title("Arbressss de la ville de Namur")
+st.title("Arbres de la ville de Namur")
 st.write(
     "Petite application Streamlit de visualisation des données des arbres de la ville de Namur."
 )
